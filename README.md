@@ -1,4 +1,7 @@
-# Pattern Matching
-Pattern Matching Algorithms
+# Algorithms
+Algorithms
 
-Java implementation for Knuth-Morris-Pratt and Aho-Corasick Algorithm
+Java implementation for the below algorithms:
+
+1. Aho-Corasick - multiple pattern matching algorithm
+2. Knuth-Morris-Pratt - singel pattern matching algorithm
